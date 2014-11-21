@@ -1,11 +1,11 @@
 (dp0
 S'buildDestination'
 p1
-V/Users/smarkdurbin/Desktop/temp_git/group10/example/index.html
+VC:\u005cUsers\u005cjackalop\u005cDesktop\u005cindex.html
 p2
 sS'saveDestination'
 p3
-S'/Users/smarkdurbin/Desktop/temp_git/group10/example/index.html.tws'
+S'C:\\Users\\jackalop\\Desktop\\Repositories\\dig4104c.github.io\\example\\index.html.tws'
 p4
 sS'metadata'
 p5
@@ -23,7 +23,7 @@ p11
 (dp13
 S'selected'
 p14
-I00
+I01
 sS'pos'
 p15
 (lp16
@@ -532,7 +532,7 @@ tp171
 Rp172
 sbsa(dp173
 g14
-I01
+I00
 sg15
 (lp174
 F515.0
@@ -995,7 +995,7 @@ Tiddler
 p311
 (dp312
 g21
-Vmacros['import_js'] =\u000a{\u000a	handler: function(place, object, params)\u000a	{\u000a\u000a		var script1 = document.createElement("script");\u000a		script1.type = 'text/javascript';\u000a		script1.src = "js/script.js";\u000a		var headTag = document.getElementsByTagName("HEAD")[0];\u000a		headTag.appendChild(script1);\u000a\u000a\u000a	}\u000a}
+Vmacros['import_js'] =\u000a{\u000a	handler: function(place, object, params)\u000a	{\u000a\u000a		var script1 = document.createElement("script");\u000a		script1.type = 'text/javascript';\u000a		script1.src = "/js/script.js";\u000a		var headTag = document.getElementsByTagName("HEAD")[0];\u000a		headTag.appendChild(script1);\u000a\u000a\u000a	}\u000a}
 p313
 sg23
 Vimport_js
@@ -1005,9 +1005,9 @@ g26
 ((I2014
 I11
 I21
-I11
-I54
-I46
+I12
+I51
+I38
 I4
 I325
 I0
@@ -1097,7 +1097,7 @@ Tiddler
 p342
 (dp343
 g21
-V@import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);\u000a\u000a@import url("css/style.css");
+V@import url(http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);\u000a\u000a@import url("/css/style.css");
 p344
 sg23
 VUntitled Stylesheet 1
@@ -1107,9 +1107,9 @@ g26
 ((I2014
 I11
 I21
-I11
-I55
-I24
+I12
+I52
+I38
 I4
 I325
 I0
