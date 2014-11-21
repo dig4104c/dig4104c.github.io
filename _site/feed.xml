@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Twine</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-11-20T20:18:06-05:00</updated>
+<id>/</id>
+<author>
+  <name>Group 10</name>
+  <uri>/</uri>
+  <email>group10@email.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Downloads]]></title>
+  <link rel="alternate" type="text/html" href="/articles/downloads/" />
+  <id>/articles/downloads</id>
+  <published>2013-05-22T00:00:00-04:00</published>
+  <updated>2013-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>Group 10</name>
+    <uri></uri>
+    <email>group10@email.com</email>
+  </author>
+  <content type="html">&lt;h2 id=&quot;twine-information&quot;&gt;Twine Information&lt;/h2&gt;
+
+&lt;p&gt;The most recent Twine version is &lt;strong&gt;1.4.2&lt;/strong&gt;, released 2 Jun 2014. (&lt;a href=&quot;http://twinery.org/downloads/twine_1.4.2_win.exe&quot; class=&quot;urlextern&quot; title=&quot;http://twinery.org/downloads/twine_1.4.2_win.exe&quot; rel=&quot;nofollow&quot;&gt;Windows&lt;/a&gt;, &lt;a href=&quot;http://twinery.org/downloads/twine_1.4.2_osx.zip&quot; class=&quot;urlextern&quot; title=&quot;http://twinery.org/downloads/twine_1.4.2_osx.zip&quot; rel=&quot;nofollow&quot;&gt;OS X&lt;/a&gt;)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4.2_release_notes&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4.2_release_notes&quot;&gt;Twine 1.4.2 release notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4.2_bugs&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4.2_bugs&quot;&gt;Twine 1.4.2 bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4.1_release_notes&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4.1_release_notes&quot;&gt;Twine 1.4.1 release notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4.1_bugs&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4.1_bugs&quot;&gt;Twine 1.4.1 bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4_release_notes&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4_release_notes&quot;&gt;Twine 1.4 release notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_1.4_bugs&quot; class=&quot;wikilink1&quot; title=&quot;twine_1.4_bugs&quot;&gt;Twine 1.4 bugs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/versions_of_twine&quot; class=&quot;wikilink1&quot; title=&quot;versions_of_twine&quot;&gt;Versions of Twine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/twine_licenses&quot; class=&quot;wikilink1&quot; title=&quot;twine_licenses&quot;&gt;Twine licenses&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/wiki/browser_support&quot; class=&quot;wikilink1&quot; title=&quot;browser_support&quot;&gt;Browser support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;getting-started-with-twine&quot;&gt;Getting Started with Twine&lt;/h3&gt;
+
+&lt;p&gt;There are some great tutorials on Twine:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.auntiepixelante.com/twine/&quot; class=&quot;urlextern&quot; title=&quot;http://www.auntiepixelante.com/twine/&quot; rel=&quot;nofollow&quot;&gt;Anna Anthropy’s How To Make Games With Twine&lt;/a&gt; is a great, fast way to get started with Twine.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aliendovecote.com/twine101&quot; class=&quot;urlextern&quot; title=&quot;http://aliendovecote.com/twine101&quot; rel=&quot;nofollow&quot;&gt;Brenda Neotenomie’s Twine 101&lt;/a&gt; is an online Twine tutorial in slideshow format, perfect for teaching workshops. You can navigate using arrow keys or mouse. Right/left goes from topic to topic, down focuses more deeply into that topic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gamasutra.com/blogs/DanCox/20130203/185939/Learning_Twine_Part_1.php&quot; class=&quot;urlextern&quot; title=&quot;http://www.gamasutra.com/blogs/DanCox/20130203/185939/Learning_Twine_Part_1.php&quot; rel=&quot;nofollow&quot;&gt;Dan Cox’s Learning Twine&lt;/a&gt; blog post series is a gentle introduction to Twine as well. (direct link: parts &lt;a href=&quot;http://www.gamasutra.com/blogs/DanCox/20130209/186341/Learning_Twine_Part_2.php&quot; class=&quot;urlextern&quot; title=&quot;http://www.gamasutra.com/blogs/DanCox/20130209/186341/Learning_Twine_Part_2.php&quot; rel=&quot;nofollow&quot;&gt;2&lt;/a&gt; and &lt;a href=&quot;http://www.gamasutra.com/blogs/DanCox/20130218/186810/Learning_Twine_Part_3.php&quot; class=&quot;urlextern&quot; title=&quot;http://www.gamasutra.com/blogs/DanCox/20130218/186810/Learning_Twine_Part_3.php&quot; rel=&quot;nofollow&quot;&gt;3&lt;/a&gt;) &lt;/p&gt;
+
+&lt;p&gt;The   &amp;lt;li&amp;gt;&lt;a href=&quot;/wiki/twine_reference&quot; class=&quot;wikilink1&quot; title=&quot;twine_reference&quot;&gt;Twine Reference&lt;/a&gt; goes over all of Twine’s features in detail.&lt;/p&gt;
+
+&lt;li&gt;&lt;a href=&quot;/wiki/tutorial_videos_and_screencasts&quot; class=&quot;wikilink1&quot; title=&quot;tutorial_videos_and_screencasts&quot;&gt;Tutorial Videos and Screencasts&lt;/a&gt;
+
+&lt;/li&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/downloads/&quot;&gt;Downloads&lt;/a&gt; was originally published by Group 10 at &lt;a href=&quot;&quot;&gt;Twine&lt;/a&gt; on May 22, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Developers Guide]]></title>
+  <link rel="alternate" type="text/html" href="/articles/developer-guide/" />
+  <id>/articles/developer-guide</id>
+  <published>2013-05-22T00:00:00-04:00</published>
+  <updated>2013-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>Group 10</name>
+    <uri></uri>
+    <email>group10@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+
+&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
+
+&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;half&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;third&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/developer-guide/&quot;&gt;Developers Guide&lt;/a&gt; was originally published by Group 10 at &lt;a href=&quot;&quot;&gt;Twine&lt;/a&gt; on May 22, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[About Us]]></title>
+  <link rel="alternate" type="text/html" href="/articles/about/" />
+  <id>/articles/about</id>
+  <published>2013-05-22T00:00:00-04:00</published>
+  <updated>2013-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>Group 10</name>
+    <uri></uri>
+    <email>group10@email.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+
+&lt;h2 id=&quot;figures-for-images-or-video&quot;&gt;Figures (for images or video)&lt;/h2&gt;
+
+&lt;h3 id=&quot;one-up&quot;&gt;One Up&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;a href=&quot;http://www.flickr.com/photos/80901381@N04/7758832526/&quot; title=&quot;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&quot;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;two-up&quot;&gt;Two Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;half&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-1.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;/images/image-filename-2.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these two images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;
+	&lt;figcaption&gt;Two images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;three-up&quot;&gt;Three Up&lt;/h3&gt;
+
+&lt;p&gt;Apply the &lt;code&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;third&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/1200x600.jpg&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;http://placehold.it/600x300.jpg&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;image&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&amp;gt;&lt;/span&gt;Caption describing these three images.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And you’ll get something that looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;third&quot;&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/about/&quot;&gt;About Us&lt;/a&gt; was originally published by Group 10 at &lt;a href=&quot;&quot;&gt;Twine&lt;/a&gt; on May 22, 2013.&lt;/p&gt;</content>
+</entry>
+
+</feed>
